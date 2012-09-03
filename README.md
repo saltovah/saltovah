@@ -1,4 +1,3 @@
 saltovah
 ========
-Подзаголовок
-__
+[Saltovah](http://saltova.blogspot.com/)
